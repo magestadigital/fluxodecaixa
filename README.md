@@ -32,10 +32,6 @@ Este é um aplicativo simples e intuitivo para gerenciar suas finanças, permiti
 ## 🛠 Tecnologias Usadas
 
 - **Linguagem:** Python
-- **Frontend/Framework:** [Django](https://www.djangoproject.com/) ou [Flask](https://flask.palletsprojects.com/en/3.0/) (Exemplo - se for web)
-- **Biblioteca de GUI:** [Tkinter](https://docs.python.org/3/library/tkinter.html) ou [PyQt](https://www.riverbankcomputing.com/software/pyqt/) (Exemplo - se for desktop)
-- **Banco de Dados:** SQLite (Exemplo)
-
 ---
 
 ## 👨‍💻 Projeto Pessoal

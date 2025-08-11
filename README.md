@@ -23,12 +23,10 @@ Este é um aplicativo simples e intuitivo para gerenciar suas finanças, permiti
 
 ---
 
-## 📸 Demonstração
-
-Aqui está um GIF mostrando o aplicativo em ação:
+## Kawaii
 
 <p align="center">
-  <img src="https://i.imgur.com/gK988aF.gif" alt="Demonstração do aplicativo de fluxo de caixa">
+  <img src="https://imgur.com/gallery/water-is-fine-vQR2pqe" alt="tomando banho gatinho">
 </p>
 
 ---

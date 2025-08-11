@@ -9,7 +9,6 @@ Este é um aplicativo simples e intuitivo para gerenciar suas finanças, permiti
 - **Adicionar Transações**: Inclua facilmente novas receitas ou despesas.
 - **Visualização Detalhada**: Veja todas as suas transações em uma lista organizada.
 - **Cálculo Automático**: O saldo total é atualizado em tempo real, mostrando a situação financeira atual.
-- **Filtros e Buscas**: (Opcional - adicione se o seu app tiver) Filtre transações por data, tipo ou categoria.
 
 ---
 
@@ -19,7 +18,6 @@ Este é um aplicativo simples e intuitivo para gerenciar suas finanças, permiti
 2. Certifique-se de ter o Python instalado.
 3. Se houver dependências, instale-as: `pip install -r requirements.txt` (caso você tenha um arquivo `requirements.txt`).
 4. Execute o aplicativo: `python main.py`
-5. Acesse o aplicativo no seu navegador ou use-o diretamente no terminal (dependendo de como ele foi construído).
 
 ---
 

@@ -1,4 +1,4 @@
-# fluxodecaixa# 💰 App de Fluxo de Caixa
+# 💰 App de Fluxo de Caixa
 
 Este é um aplicativo simples e intuitivo para gerenciar suas finanças, permitindo que você visualize o fluxo de caixa de forma clara e objetiva. Registre suas receitas e despesas para ter um controle total sobre seu dinheiro.
 
@@ -28,9 +28,7 @@ Este é um aplicativo simples e intuitivo para gerenciar suas finanças, permiti
 Aqui está um GIF mostrando o aplicativo em ação:
 
 <p align="center">
-  <img src="https://i.imgur.com/your-gif-here.gif" alt="Demonstração do aplicativo de fluxo de caixa">
-  <br>
-  (Substitua o link acima pelo link do seu GIF. Você pode usar ferramentas como o [LICEcap](https://www.cockos.com/licecap/) ou o [Recordit](https://recordit.co/) para criar um GIF da tela.)
+  <img src="https://i.imgur.com/gK988aF.gif" alt="Demonstração do aplicativo de fluxo de caixa">
 </p>
 
 ---

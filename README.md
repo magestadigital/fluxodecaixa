@@ -26,7 +26,7 @@ Este é um aplicativo simples e intuitivo para gerenciar suas finanças, permiti
 ## Kawaii
 
 <p align="center">
-  <img src="https://imgur.com/gallery/water-is-fine-vQR2pqe" alt="tomando banho gatinho">
+  <img src="https://i.imgur.com/9HOi1ls.gif" alt="surprise mother fucker">
 </p>
 
 ---
